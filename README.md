@@ -1,7 +1,7 @@
 # DSA Problem Solutions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shefain/DSA-with-JavaScript)
 
 Welcome to my Data Structures and Algorithms (DSA) problem-solving repository! This repository contains my solutions to various coding problems from platforms like LeetCode, HackerRank, Codeforces, and more.
 
@@ -16,7 +16,7 @@ Welcome to my Data Structures and Algorithms (DSA) problem-solving repository! T
 
 ## 🗂 Repository Structure
 
-DSA-Solutions/
+``DSA-Solutions/
 ├── 01-Arrays/
 ├── 02-Strings/
 ├── 03-Linked-Lists/
@@ -25,3 +25,4 @@ DSA-Solutions/
 ├── 06-Graphs/
 ├── 07-Sorting-Searching/
 └── 08-Dynamic-Programming/
+``
